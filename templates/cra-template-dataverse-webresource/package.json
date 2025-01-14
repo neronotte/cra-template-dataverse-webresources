@@ -1,0 +1,18 @@
+{
+  "name": "@_neronotte/cra-template-dataverse-webresource",
+  "version": "1.0.13",
+  "description": "A template to create Dataverse Web Resource projects with Create-React-App",
+  "main": "template.json",
+  "author": "_neronotte",
+  "license": "MIT",
+  "keywords": [
+    "cra-template",
+    "dataverse",
+    "microsoft dynamics crm",
+    "microsoft dynamics",
+    "webresource",
+    "react",
+    "typescript",
+    "fluentui"
+  ]
+}
