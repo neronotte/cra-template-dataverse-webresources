@@ -27,3 +27,4 @@ Write-Output "package.json updated successfully to version $newVersion"
 
 Set-Location "..\templates\cra-template-dataverse-webresource"
 npm publish --access public
+Set-Location "..\..\.bootstrapper"

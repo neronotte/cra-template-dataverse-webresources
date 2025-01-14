@@ -1,7 +1,7 @@
 {
-  "name": "@_neronotte/cra-template-dataverse-webresource",
-  "version": "1.0.15",
-  "description": "A template to create Dataverse Web Resource projects with Create-React-App",
+  "name": "@_neronotte/cra-template-dataverse-webresource-form",
+  "version": "1.0.4",
+  "description": "A Create-React-App template to create Dataverse Web Resources that can be embedded within Model Driven App forms.",
   "main": "template.json",
   "author": "_neronotte",
   "license": "MIT",
